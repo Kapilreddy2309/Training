@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/Kapilreddy2203/851538f9-4065-4d2e-a30f-fdbf0f411cc2/4720b1e8-6278-4be9-a5a1-73d7410cf011/_apis/work/boardbadge/47cf1ee4-e97d-4914-8587-c72ef00cb213)](https://dev.azure.com/Kapilreddy2203/851538f9-4065-4d2e-a30f-fdbf0f411cc2/_boards/board/t/4720b1e8-6278-4be9-a5a1-73d7410cf011/Microsoft.RequirementCategory)
 # Training
